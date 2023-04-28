@@ -1,0 +1,8 @@
+classes:
+  0:
+  - Not Similar
+  - 0 ~ 2.5
+  1:
+  - Similar
+  - 2.5 ~ 5
+model_path: ../model/model_re.pt
