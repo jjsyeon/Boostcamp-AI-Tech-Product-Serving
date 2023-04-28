@@ -5,4 +5,4 @@ classes:
   1:
   - Similar
   - 2.5 ~ 5
-model_path: ../model/model_re.pt
+model_path: ../model/model.pt
